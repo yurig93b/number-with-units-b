@@ -8,8 +8,12 @@
 
 <div dir='ltr'>
 
-    make test
-    ./test
+    make test1
+    ./test1
+    make test2
+    ./test2
+    make test3
+    ./test3
 
 </div>
 
